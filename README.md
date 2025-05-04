@@ -133,7 +133,7 @@ Proyek ini dikembangkan untuk keperluan akademik dan dapat digunakan kembali unt
 
 Untuk pertanyaan, silakan hubungi:
 
-* Email: \wawanfirgiawan9@gmail.com
+* Email: wawanfirgiawan9@gmail.com
 * GitHub: [https://github.com/wawanfrigiawan](https://github.com/wawanfrigiawan)
 
 ````
