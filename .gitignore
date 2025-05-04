@@ -1,0 +1,38 @@
+# Folder dan file Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Editor & IDE (VSCode, PyCharm)
+.vscode/
+.idea/
+
+# File environment
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+*.env
+
+# File log dan sementara
+*.log
+*.tmp
+*.swp
+*.bak
+
+# File sistem
+.DS_Store
+Thumbs.db
+
+# File build/distribusi
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook checkpoint
+.ipynb_checkpoints/
+
+# Git backup
+*.orig
